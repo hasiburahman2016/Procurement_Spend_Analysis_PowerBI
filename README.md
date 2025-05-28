@@ -1,13 +1,13 @@
+## Report:  
+Link: https://app.powerbi.com/groups/me/reports/0b9552d0-1e76-4fdb-887b-b29453b15a9d/ff25073fa8b0b20a5402?experience=power-bi
 
-# Link to Report :
-(https://app.powerbi.com/groups/me/reports/0b9552d0-1e76-4fdb-887b-b29453b15a9d/ff25073fa8b0b20a5402?experience=power-bi)
 
 
 # Procurement Dashboard – Insight Summary
 
 ---
 
-[Overview] (https://github.com/hasiburahman2016/Procurement_Spend_Analysis_PowerBI/blob/main/Overview.jpg)
+![Overview](https://github.com/hasiburahman2016/Procurement_Spend_Analysis_PowerBI/blob/main/Overview.jpg)
 ## Total Spend Overview
 
 - **Overall Spend**: $2.16B across 2013–2016
@@ -43,7 +43,7 @@
 - **Items**: Chocolate-based SKUs
 - **Conclusion**: Likely a one-time or seasonal order
 
-[Purchases by color and Packages] (https://github.com/hasiburahman2016/Procurement_Spend_Analysis_PowerBI/blob/main/Purchases%20by%20color%20and%20Packages.jpg)
+![Purchases by color and Packages](https://github.com/hasiburahman2016/Procurement_Spend_Analysis_PowerBI/blob/main/Purchases%20by%20color%20and%20Packages.jpg)
 
 ## Product Characteristics
 
