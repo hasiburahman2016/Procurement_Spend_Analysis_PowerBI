@@ -1,6 +1,6 @@
-# Procurement_Spend_Analysis_PowerBI
 
-# Link to Report:
+[# Link to Report]
+(https://app.powerbi.com/groups/me/reports/0b9552d0-1e76-4fdb-887b-b29453b15a9d/ff25073fa8b0b20a5402?experience=power-bi)
 
 
 # Procurement Dashboard – Insight Summary
