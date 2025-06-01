@@ -51,6 +51,6 @@ Link: https://app.powerbi.com/groups/me/reports/0b9552d0-1e76-4fdb-887b-b29453b1
   - White: $1.05B
   - Various: $0.5B
   - Black: $0.47B
-- **Note**: "Various" is vague and should be cleaned in the data
+
 
 ---
